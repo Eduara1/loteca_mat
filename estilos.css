@@ -1,0 +1,23 @@
+header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1, h3{
+    font-size: 5em;
+    color: rgb(119, 153, 51);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 13px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+    margin-bottom: 10px;
+}
+h3{
+    font-size: 3em;
+    font-style: normal;
+    font-variant: normal;
+    color: rgb(83, 199, 108);
+    margin-top: 10px;
+}   
