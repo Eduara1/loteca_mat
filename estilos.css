@@ -57,3 +57,14 @@ footer > p{
     color: whitesmoke;
     font-size: 2em  ;
 }
+
+.sorteio{
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-size: 1.2em;
+  }
+  .acertos{
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    font-family: sans-serif;
+  }
